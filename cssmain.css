@@ -1,0 +1,53 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 200;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #21618C;
+}
+a:hover {
+    text-decoration: none;
+    color: #A93226;
+}
+h1 {
+    font-size: 1.1em;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+p {
+    font-size: 1em;
+    line-height: 1.3em;
+    color: #333;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+footer {
+    border-top: 1px solid #1B4F72;
+    font-size: 1em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.1em;
+}
+
+ul.posts li {
+    list-style: square;
+}
+
+li{
+  margin: 10px 0;
+}
