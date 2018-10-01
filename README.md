@@ -1,5 +1,3 @@
-# dotrinhu.github.io
-
 A Github page using Jekyll style.
 
 ## References
